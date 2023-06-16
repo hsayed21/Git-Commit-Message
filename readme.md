@@ -14,30 +14,30 @@ The supported commit message types and their corresponding hotstrings are:
 
 |Message Type|Hotstring|
 |------------|---------|
-|Initial commit|init|
-|Add|add, creat
-|Update|updat, modif, chang|
-|Refactor|refact|
-|Fix|fix|
-|Improvement|improv, enhanc|
-|Remove|remov, delet|
-|Feature|feat|
-|Cleaning|clean|
-|Work in Progress|inprogress|
-|Test|test|
-|Merge|merg|
-|Bad code|bad, needimprove|
-|Hotfix|hotfix|
-|Revert|revert|
-|Code review|review|
-|Performance|perf|
-|Style|styl|
-|Add test|addtest|
-|Configuration|config|
-|Security|secur|
-|Documentation|doc|
-|Release|releas|
-|Tag|tag|
+|🎉 Initial commit|init|
+|➕ add: |add, creat
+|🔨 update: |updat, modif, chang|
+|♻️ refactor: |refact|
+|🐛 fix: |fix|
+|⚡️ improv: |improv, enhanc|
+|➖ remov: |remov, delet|
+|✨ feat: |feat|
+|🗑️ Removing dead code|clean|
+|🚧 Work in progress|inprogress|
+|🧪 For Testing|test|
+|🔀 Merge branches|merg|
+|💩 Write bad code that needs to be improved|bad, needimprove|
+|🚑️ Critical hotfix|hotfix|
+|⏪️ revert: |revert|
+|👌 Code review changes|review|
+|⚡️ perf: |perf|
+|💄 style: |styl|
+|✅ test: |addtest|
+|🔧 Changing configuration files|config|
+|🔒️ Fixing security issues|secur|
+|📝 docs: |doc|
+|📦️ Releasing v1.0 |releas|
+|🔖 Tag v0.2 |tag|
 
 ## Supported Applications
 The script currently supports the following applications:
